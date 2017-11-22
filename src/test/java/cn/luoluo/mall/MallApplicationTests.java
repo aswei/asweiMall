@@ -1,4 +1,4 @@
-package cn.luoluo.aswei.mall;
+package cn.luoluo.mall;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

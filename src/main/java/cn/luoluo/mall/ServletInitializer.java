@@ -1,4 +1,4 @@
-package cn.luoluo.aswei.mall;
+package cn.luoluo.mall;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
